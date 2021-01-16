@@ -1,0 +1,21 @@
+#inputNum{
+    opacity: 0;
+}
+
+.menuOff     
+{    
+    display: none;    
+}    
+    
+.menuOn    
+{    
+    display: block;    
+} 
+
+#menu    
+{    
+    position: absolute;    
+    top: 10 px;    
+    left: 101 px;    
+    z-index: 50;    
+}
